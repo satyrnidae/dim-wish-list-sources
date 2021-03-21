@@ -49262,7 +49262,11 @@ dimwishlist:item=-3369545945#notes:Tempukal Clause 🤢🤢🤢 (Unless you *rea
 
 // isabel's picks
 // dead man's tale
-dimwishlist:item=3654674561&perks=839105230,1885400500,1820235745,1067908860,1301843770#notes:satyrnidae: Predictable recoil subsistence build
-dimwishlist:item=3654674561&perks=3661387068,3142289711,1820235745,1067908860,1301843770#notes:satyrnidae: Predictable recoil subsistence build
-dimwishlist:item=3654674561&perks=839105230,1885400500,1168162263,1067908860,1301843770#notes:satyrnidae: Predictable recoil outlaw build
-dimwishlist:item=3654674561&perks=3661387068,3142289711,1168162263,1067908860,1301843770#notes:satyrnidae: Predictable recoil outlaw build
+dimwishlist:item=3654674561&perks=839105230,1885400500,1820235745,1067908860,1301843770#notes:personal pick
+dimwishlist:item=3654674561&perks=3661387068,3142289711,1820235745,1067908860,1301843770#notes:personal pick
+dimwishlist:item=3654674561&perks=839105230,1885400500,1168162263,1067908860,1301843770#notes:personal pick
+dimwishlist:item=3654674561&perks=3661387068,3142289711,1168162263,1067908860,1301843770#notes:personal pick
+
+// royal entry
+dimwishlist:item=2448907086&perks=3798852852,3796465595,3300816228,2284787283,1154004463#notes:personal pick
+dimwishlist:item=2448907086&perks=3798852852,3796465595,3300816228,3927722942,1154004463#notes:personal pick
