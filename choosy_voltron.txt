@@ -49273,7 +49273,6 @@ dimwishlist:item=2448907086&perks=3798852852,3796465595,3300816228,3927722942,11
 
 //khvostov 7g-02 (sorry not sorry)
 dimwishlist:item=1619016919
-<<<<<<< HEAD
 
 // black tiger-2sr
 dimwishlist:item=3906357378&perks=4090651448,1968497646,2387244414
@@ -49283,5 +49282,6 @@ dimwishlist:item=3654674561&perks=839105230,1885400500,1820235745,1067908860,130
 dimwishlist:item=3654674561&perks=3661387068,3142289711,1820235745,1067908860,1301843770#notes:satyrnidae: Predictable recoil subsistence build
 dimwishlist:item=3654674561&perks=839105230,1885400500,1168162263,1067908860,1301843770#notes:satyrnidae: Predictable recoil outlaw build
 dimwishlist:item=3654674561&perks=3661387068,3142289711,1168162263,1067908860,1301843770#notes:satyrnidae: Predictable recoil outlaw build
-=======
->>>>>>> 4f35e39 (add khvostov because seeing a thumbs up on it would make me laugh)
+
+// black tiger-2sr
+dimwishlist:item=3906357378&perks=4090651448,1968497646,2387244414
