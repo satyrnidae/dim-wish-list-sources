@@ -49273,3 +49273,6 @@ dimwishlist:item=2448907086&perks=3798852852,3796465595,3300816228,3927722942,11
 
 //khvostov 7g-02 (sorry not sorry)
 dimwishlist:item=1619016919
+
+// black tiger-2sr
+dimwishlist:item=3906357378&perks=4090651448,1968497646,2387244414
